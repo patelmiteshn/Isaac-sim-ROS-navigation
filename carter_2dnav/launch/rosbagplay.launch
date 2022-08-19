@@ -1,0 +1,7 @@
+<launch>
+
+   <node type="rviz" name="rviz" pkg="rviz" args="-d $(find carter_2dnav)/rviz/carter_2dnav.rviz" />
+
+   <node pkg="rosbag" type="play" name="player" output="screen" args="$(find carter_2dnav)/record_data/01_long.bag"/>
+
+</launch>

@@ -1,0 +1,26 @@
+image: carter_warehouse_navigation.png
+resolution: 0.05
+origin: [-10.325, -12.225, 0.0000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
+
+# image: carter_warehouse_navigation.png
+# resolution: 0.05
+# origin: [-10.325, -12.225, 0.0000]
+# negate: 0
+# occupied_thresh: 0.65
+# free_thresh: 0.196
+
+# Top Left: (-1032.5, 1802.5)		 Top Right: (942.5, 1802.5)
+#  Bottom Left: (-1032.5, -1222.5)		 Bottom Right: (942.5, -1222.5)
+# Coordinates of top left of image (pixel 0,0) as origin, + X down, + Y right:
+# (1222.5, 942.5)
+# Image size in pixels: 396, 606
+
+# Top Left: (-1032.5, 1802.5)		 Top Right: (942.5, 1802.5)
+#  Bottom Left: (-1032.5, -1222.5)		 Bottom Right: (942.5, -1222.5)
+# Coordinates of top left of image (pixel 0,0) as origin, + X down, + Y right:
+# (1222.5, 942.5)
+# Image size in pixels: 396, 606
